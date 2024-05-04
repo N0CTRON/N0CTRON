@@ -7,7 +7,7 @@
 A simple alternative to std::vector with only the most used functions, which makes it use less disk space (and maybe is faster? Didn't benchmark.) 
 
 # Comming soon:
-- Optimization Library:
+- Optimization Library[will be name "ANN Optimization"] - Working on it since 04, May, 2024:
   A library that provides implementations of various types of gradient descent, like SGD, momentum, etc. This library would be used to optimize the neural network's parameters during training.
 
 - Memory Management Library: 
