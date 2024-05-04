@@ -7,11 +7,11 @@
 A simple alternative to std::vector with only the most used functions, which makes it use less disk space (and maybe is faster? Didn't benchmark.) 
 
 # Comming soon:
-- Optimization Library[will be name "ANN Optimization"] - Working on it since 04, May, 2024:
-  A library that provides implementations of various types of gradient descent, like SGD, momentum, etc. This library would be used to optimize the neural network's parameters during training.
+- Memory Management Library[will be named "cuMM" which stands for "CUDA Memory Manager"]: 
+A library that provides a custom memory allocator that is optimized for GPU memory allocation and deallocation, etc. This library could be used to manage the memory allocation and deallocation of tensors and other data structures.
 
-- Memory Management Library: 
-A library that provides a custom memory allocator that is optimized for GPU memory allocation and deallocation. This library would be used to manage the memory allocation and deallocation of tensors and other data structures used by the neural network.
+- Optimization Library[will be named "ANN Optimization"]:
+  A library that provides implementations of various types of gradient descent, like SGD, momentum, etc. This library would be used to optimize the neural network's parameters during training.
 
 - Activation Function Library:
 A library that provides implementations of various activation functions, such as sigmoid, ReLU, and tanh. This library would be used by the Neural Network Layer Library to provide activation functions for each layer.
