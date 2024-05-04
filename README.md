@@ -6,9 +6,12 @@
 - AOS / Array On Steriods
 A simple alternative to std::vector with only the most used functions, which makes it use less disk space (and maybe is faster? Didn't benchmark.) 
 
-# Comming soon:
+# Released, but in production:
+
 - Memory Management Library[will be named "cuMM" which stands for "CUDA Memory Manager"]: 
-A library that provides a custom memory allocator that is optimized for GPU memory allocation and deallocation, etc. This library could be used to manage the memory allocation and deallocation of tensors and other data structures.
+A library that provides a custom memory allocator that is optimized for GPU memory allocation and deallocation, etc. This library could be used to manage the memory allocation and deallocation of tensors and other data structures
+
+# Comming soon:
 
 - Optimization Library[will be named "ANN Optimization"]:
   A library that provides implementations of various types of gradient descent, like SGD, momentum, etc. This library would be used to optimize the neural network's parameters during training.
