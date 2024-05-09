@@ -6,10 +6,8 @@
 - AOS / Array On Steriods
 A simple alternative to std::vector with only the most used functions, which makes it use less disk space (and maybe is faster? Didn't benchmark.) 
 
-# Released, but in production:
-
-- Memory Management Library[will be named "cuMM" which stands for "CUDA Memory Manager"]: 
-A library that provides a custom memory allocator that is optimized for GPU memory allocation and deallocation, etc. This library could be used to manage the memory allocation and deallocation of tensors and other data structures
+- Memory Management Library / cuMM["CUDA Memory Manager"]: 
+A library that provides a custom memory allocator that is optimized for GPU memory allocation and deallocation, etc. This library could be used to manage the memory allocation and deallocation of tensors and other data structures. cuMM supports arrays, by using the "[]" operator overloading.
 
 # Comming soon:
 
