@@ -1,6 +1,5 @@
 - 👋 Hi, We're @N0CTRON[XeTute, unable to change @ on git:(].
 - 👀 We're interested in C/C++ & ASM dev. (DNN, CNN, RNN, UI / UX, Networking, all of it.)
-- 🌱 We're currently learning GPU programing.
 
 # Already released: 
 - AOS / Array On Steriods: 
