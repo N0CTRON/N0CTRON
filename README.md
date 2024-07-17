@@ -1,5 +1,6 @@
 - 👋 Hi, We're @N0CTRON[XeTute, unable to change @ on git:(].
 - 👀 We're interested in C/C++ & ASM dev. (DNN, CNN, RNN, UI / UX, Networking, all of it.)
+- We're working on a closed-source framework, which uses only our "header-only" libs, in C++, to make inferencing faster on our website - and on Android phones.
 
 # Already released: 
 - AOS / Array On Steriods: 
